@@ -28,6 +28,10 @@ change the password and use RDP to connect Kali GUI
 ```
 sudo passwd myuser
 ```
+Change root password
+```
+sudo su -
+```
 Change the user
 ```
 su - username
